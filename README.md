@@ -1,3 +1,6 @@
+🔗 **Acesse a ferramenta online:**  
+https://jeanlucio.github.io/promptkitedu/
+
 # PromptKit EDU
 
 O **PromptKit EDU** é uma ferramenta interativa desenvolvida para auxiliar professores na organização, criação e uso de *prompts* educacionais, especialmente para aplicações em **Moodle**, **IA generativa** e **produção de materiais didáticos**.
