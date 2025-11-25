@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="logo.png" alt="PromptKit EDU Logo" width="300">
+  <img src="logo.png" alt="PromptKit EDU Logo" width="200">
 
-# **PromptKit EDU**
 Ferramenta interativa para organização e criação de prompts educacionais.
 </div>
 
