@@ -80,6 +80,6 @@ Ativação com um clique.
 
 ## 👨‍💻 Autor
 **Jean Lúcio Santos Evangelista**  
-IF Sertão-PE  
+IFSertãoPE
 ORCID: https://orcid.org/0000-0001-6925-3311  
 Lattes: http://lattes.cnpq.br/1677335727759690
