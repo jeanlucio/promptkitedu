@@ -78,11 +78,6 @@ Ativação com um clique.
 
 ---
 
-## 📝 Licença
-Uso livre para fins educacionais.
-
----
-
 ## 👨‍💻 Autor
 **Jean Lúcio Santos Evangelista**  
 IF Sertão-PE  
