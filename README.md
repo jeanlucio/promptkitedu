@@ -83,3 +83,4 @@ Ativação com um clique.
 IFSertãoPE
 ORCID: https://orcid.org/0000-0001-6925-3311  
 Lattes: http://lattes.cnpq.br/1677335727759690
+Linkedin: https://www.linkedin.com/in/profjeanlucio/
